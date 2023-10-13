@@ -90,6 +90,11 @@ body
 	background-color: #fff;
 	padding: 16px 16px;
 	border-radius: 6px;
+	transition: .3s;
+}
+.sec a:hover{
+	background-color: #111;
+	color: #fff;
 }
 
 .sec a span
