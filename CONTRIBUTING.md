@@ -13,15 +13,19 @@ Thank you for your interest in contributing to [Your Project Name]! We welcome c
    
 
 Create a new branch for your feature or bug fix:
-`git checkout -b feature-name`
+```
+git checkout -b feature-name
+``` 
+
 
 Make your changes and test thoroughly.
 Commit your changes:
-`git commit -m "Descriptive commit message"
-`
+``` 
+git commit -m "Descriptive commit message"
+``` 
 Push your changes to your GitHub repository:
-`git push origin feature-name
-`
+``` git push origin feature-name``` 
+
 
 Open a pull request on the original repository explaining your changes and providing context on why they are needed.
 
