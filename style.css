@@ -66,6 +66,10 @@ body
 	width: 100%;
 	height: 600px;
 }
+.sec img{
+	display: flex;
+	margin: -18% 0px 0px 50%;
+}
 .spk h1
 {
 	font-size: 55px;
