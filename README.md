@@ -20,4 +20,4 @@ Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
 ## Merge Policy:
 I will merge all pull requests as quickly as possible, as long as they meet the project's requirements and guidelines and are Legit.
 <br>
-Happy coding!
+Happy coding..!
